@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/sfintegration.CreateContact-Contact.json",
+        "type": "generated"
+    }]
+}

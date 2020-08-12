@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/SFIntegration/Service Descriptors/sfintegration.CreateContact-Contact.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1487773159900"
+}]}
